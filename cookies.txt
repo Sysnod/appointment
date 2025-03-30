@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.consulatalgeriemontreal.com	TRUE	/	FALSE	1999999999	PHPSESSID	cp2i1ku8c4ulvi3vsta8lsksa2
+
